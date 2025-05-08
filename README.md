@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on B2B Payment systems @Duplo
+- 🔭 I’m currently working on B2B Payment systems
 - 🌱 I’m currently learning Web 3.0 development & architecture design
 - 👯 I’m looking to collaborate on Payment systems, opensource
 - 📫 How to reach me: mwendadenis3@gmail.com
